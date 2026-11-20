@@ -1,4 +1,22 @@
 {
+  "format": 1,
   "title": "我的插件索引",
-  "bundles": []
+  "metadata": { "categories": {}, "labels": {}, "sortKeys": {} },
+  "plugins": [
+    {
+      "name": "@作者/包名",
+      "title": "插件标题",
+      "description": "一句话说明",
+      "author": "作者",
+      "metadata": { "keywords": [], "labels": [], "sortKeys": {} },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1763596800,
+          "source": { "type": "npm" },
+          "engines": { "dsh": ">=0.2.0" }
+        }
+      ]
+    }
+  ]
 }
